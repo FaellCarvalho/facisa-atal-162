@@ -25,6 +25,7 @@ public class Fila {
 			if(inicio == fila.length){
 				inicio = 0;
 			}
+			
 			quantidade--;
 			return temp;
 		}else {
